@@ -3,6 +3,9 @@
 ### A Cloud Guru Course - AWS Certified SysOps Administrator Associate
 * https://acloud.guru/learn/aws-certified-sysops-administrator-associate
 
+### Get familiar with this... AWS Well-Architected Framework
+* https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf
+
 ### Meetings
 1. W01 - April 12 (Chapters 1 and 2)
 2. W02 - April 18 (Chapters 1 and 2)
