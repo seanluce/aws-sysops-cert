@@ -3,20 +3,21 @@
 ### A Cloud Guru Course - AWS Certified SysOps Administrator Associate
 * https://acloud.guru/learn/aws-certified-sysops-administrator-associate
 
-1. W01 - April 12 (Chapter 1 and 2)
-2. W02 - April 18 (Chapter 1 and 2)
+### Meetings
+1. W01 - April 12 (Chapters 1 and 2)
+2. W02 - April 18 (Chapters 1 and 2)
 3. W03 - April 26 (Chapter 3)
 4. W04 - May 2 (Chapter 3)
-5. W05 - May 10 (Chapter 4)
-6. W06 - May 16 (Chapter 4)
-7. W07 - May 24 (Chapter 5)
-8. W08 - May 30 (Chapter 5)
-9. W09 - June 7 (Chapter 6 and 7)
-10. W10 - June 13 (Chapter 6 and 7)
-11. W11 - June 21 (Chapter 9 and 10)
-12. W12 - June 27 (Chapter 9 and 10)
-13. W13 - July 5th (Review 1-5)
-14. W14 - July 11 (Review 6-10)
+5. W05 - May 10 (Chapters 4 and 5)
+6. W06 - May 16 (Chapters 4 and 5)
+7. W07 - May 24 (Chapters 6 and 7)
+8. W08 - May 30 (Chapters 6 and 7)
+9. W09 - June 7 (Chapters 9 and 10)
+10. W10 - June 13 (Chapters 9 and 10)
+11. W11 - June 21 (Review Chapters 1-5)
+12. W12 - June 27 (Review Chapters 6-10)
+13. W13 - July 5th (Review Chapters 1-5)
+14. W14 - July 11 (Review Chapters 6-10)
 
 ### Chapter 1 - Introduction to the Course 18:07
 * Introduction
